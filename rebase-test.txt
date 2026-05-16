@@ -1,2 +1,2 @@
 Rebase test commit 1
-rebase-test.txt
+Rebase test commit 2
